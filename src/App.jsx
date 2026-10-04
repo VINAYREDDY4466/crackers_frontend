@@ -23,7 +23,7 @@ const OrdersAdminPage = lazy(() => import('./pages/admin/OrdersAdminPage'));
 const ProductEditPage = lazy(() => import('./pages/admin/ProductEditPage'));
 const ProductsAdminPage = lazy(() => import('./pages/admin/ProductsAdminPage'));
 const SettingsPage = lazy(() => import('./pages/admin/SettingsPage'));
-
+//sfd
 function AdminFallback() {
   return <div className="grid min-h-screen place-items-center text-sm text-stone-500">Loading admin…</div>;
 }
